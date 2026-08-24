@@ -54,3 +54,19 @@ This repository is a record of my DSA learning journey.
 
 **Status:** 🚧 In Progress
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/devdle/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/devdle/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/devdle/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+<!---LeetCode Topics End-->
