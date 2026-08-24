@@ -60,6 +60,7 @@ This repository is a record of my DSA learning journey.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/devdle/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/devdle/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -69,4 +70,8 @@ This repository is a record of my DSA learning journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/devdle/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/devdle/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
