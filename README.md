@@ -1,77 +1,155 @@
-# LeetCode DSA
+# 🧠 LeetCode DSA
 
-My journey learning **Data Structures and Algorithms** through LeetCode using C++.
+My journey learning **Data Structures and Algorithms** through [LeetCode](https://leetcode.com/) using **C++**.
 
-## 🎯 Goal
+I'm using this repository to strengthen my problem-solving skills, understand common algorithmic patterns, and prepare myself for more advanced software engineering challenges.
 
-Improve my problem-solving skills, strengthen my understanding of DSA, and become better at writing efficient C++ solutions.
+---
 
-## 💻 Language
+## 🎯 Goals
 
-* C++
+* Build a strong foundation in Data Structures and Algorithms
+* Improve problem-solving and analytical thinking
+* Learn to write efficient and clean C++ solutions
+* Understand time and space complexity
+* Recognize common DSA patterns
+* Consistently practice and track my progress
+
+---
+
+## 📊 Progress
+
+| Difficulty | Solved |
+| :--------: | :----: |
+|   🟢 Easy  |    2   |
+|  🟡 Medium |    0   |
+|   🔴 Hard  |    0   |
+|  **Total** |  **2** |
+
+> 🚧 This repository is continuously updated as I solve more problems.
+
+---
 
 ## 📚 Topics
 
-* Arrays
-* Strings
-* Hashing
-* Linked Lists
-* Stack
-* Queue
-* Binary Search
-* Trees
-* Graphs
-* Dynamic Programming
+My solutions cover the following topics:
 
-## 📁 Structure
+* 🔢 Arrays
+* 🔤 Strings
+* #️⃣ Hashing
+* 🔗 Linked Lists
+* 📚 Stack
+* 🚶 Queue
+* 🔍 Binary Search
+* 🌳 Trees
+* 🕸️ Graphs
+* 💡 Dynamic Programming
+* 🔀 Sorting
+* 🧮 Recursion
+* 🪟 Sliding Window
+* ➡️ Two Pointers
+
+---
+
+## 🧩 Repository Structure
+
+Each problem is automatically synchronized from LeetCode using **LeetHub**.
 
 ```text
-leetcode-dsa/
+LeetCode-DSA/
 │
 ├── README.md
 │
-└── solutions/
-    ├── 0001-two-sum.cpp
-    ├── 0014-longest-common-prefix.cpp
-    └── ...
+├── 0001-two-sum/
+│   ├── 0001-two-sum.cpp
+│   └── README.md
+│
+├── 0014-longest-common-prefix/
+│   ├── 0014-longest-common-prefix.cpp
+│   └── README.md
+│
+└── ...
 ```
 
-## 🧠 My Approach
+Each problem folder contains:
 
-For each problem, I try to:
+* The C++ solution
+* A README containing the problem information
 
-1. Understand the problem.
-2. Solve it independently.
-3. Think about a brute-force approach.
-4. Look for a more efficient solution.
-5. Analyze time and space complexity.
-6. Implement the solution in C++.
-7. Review the solution later.
+---
 
-## 📈 Progress
+## 🧠 My Problem-Solving Approach
 
-This repository is a record of my DSA learning journey.
+For each problem, I try to follow this process:
 
-**Status:** 🚧 In Progress
+```text
+Understand
+    ↓
+Think
+    ↓
+Brute Force
+    ↓
+Optimize
+    ↓
+Implement
+    ↓
+Analyze Complexity
+    ↓
+Review
+```
 
+I try to solve problems independently before looking at hints or other solutions.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/devdle/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
-| [0014-longest-common-prefix](https://github.com/devdle/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0014-longest-common-prefix](https://github.com/devdle/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
-## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0014-longest-common-prefix](https://github.com/devdle/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/devdle/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
-<!---LeetCode Topics End-->
+For every solution, I aim to understand:
+
+* **Why** the solution works
+* **Why** the chosen data structure is appropriate
+* **Time complexity**
+* **Space complexity**
+* Possible alternative approaches
+
+---
+
+## 💻 Language & Tools
+
+**Language**
+
+* C++
+
+**Platform**
+
+* LeetCode
+
+**Synchronization**
+
+* LeetHub
+
+**Version Control**
+
+* Git & GitHub
+
+---
+
+## 📈 Learning Progress
+
+This repository represents my ongoing journey in DSA.
+
+I'm not aiming to simply collect solved problems. The goal is to gradually develop the ability to:
+
+> **Recognize → Analyze → Design → Implement → Optimize**
+
+---
+
+## ⭐ Philosophy
+
+> *Consistency beats intensity.*
+
+One problem understood deeply is more valuable than several problems solved without understanding.
+
+---
+
+### 🚀 Currently Learning
+
+**Data Structures & Algorithms with C++**
+
+This repository will continue to grow as I learn, practice, and improve.
