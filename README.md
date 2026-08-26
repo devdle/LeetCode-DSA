@@ -153,3 +153,19 @@ One problem understood deeply is more valuable than several problems solved with
 **Data Structures & Algorithms with C++**
 
 This repository will continue to grow as I learn, practice, and improve.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/devdle/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/devdle/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/devdle/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
+<!---LeetCode Topics End-->
