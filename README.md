@@ -159,6 +159,7 @@ This repository will continue to grow as I learn, practice, and improve.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/devdle/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/devdle/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/devdle/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String
@@ -178,4 +179,8 @@ This repository will continue to grow as I learn, practice, and improve.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/devdle/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/devdle/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
