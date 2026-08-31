@@ -160,6 +160,7 @@ This repository will continue to grow as I learn, practice, and improve.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/devdle/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/devdle/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/devdle/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/devdle/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/devdle/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -167,11 +168,13 @@ This repository will continue to grow as I learn, practice, and improve.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/devdle/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/devdle/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/devdle/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/devdle/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/devdle/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/devdle/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/devdle/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -187,6 +190,7 @@ This repository will continue to grow as I learn, practice, and improve.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/devdle/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/devdle/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/devdle/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/devdle/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Two Pointers
