@@ -161,6 +161,7 @@ This repository will continue to grow as I learn, practice, and improve.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/devdle/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/devdle/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/devdle/LeetCode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/devdle/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/devdle/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/devdle/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -191,6 +192,7 @@ This repository will continue to grow as I learn, practice, and improve.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/devdle/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/devdle/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/devdle/LeetCode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/devdle/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/devdle/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Two Pointers
@@ -201,4 +203,8 @@ This repository will continue to grow as I learn, practice, and improve.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/devdle/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/devdle/LeetCode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
