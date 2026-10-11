@@ -210,9 +210,11 @@ This repository will continue to grow as I learn, practice, and improve.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/devdle/LeetCode-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/devdle/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/devdle/LeetCode-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/devdle/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
