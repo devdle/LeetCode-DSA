@@ -199,6 +199,7 @@ This repository will continue to grow as I learn, practice, and improve.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/devdle/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/devdle/LeetCode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@ This repository will continue to grow as I learn, practice, and improve.
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/devdle/LeetCode-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/devdle/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/devdle/LeetCode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
