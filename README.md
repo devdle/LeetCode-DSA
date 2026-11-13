@@ -199,6 +199,7 @@ This repository will continue to grow as I learn, practice, and improve.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devdle/LeetCode-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/devdle/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/devdle/LeetCode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
@@ -213,6 +214,7 @@ This repository will continue to grow as I learn, practice, and improve.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devdle/LeetCode-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/devdle/LeetCode-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/devdle/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/devdle/LeetCode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
