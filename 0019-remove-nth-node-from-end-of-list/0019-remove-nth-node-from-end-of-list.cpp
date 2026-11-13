@@ -9,6 +9,7 @@
  * };
  */
 
+
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
@@ -18,18 +19,16 @@ public:
         ListNode* slow = &dummyNode;
         ListNode* fast = &dummyNode;
 
-        // Move fast n + 1 steps
-        for (int i = 0; i <= n; i++) {
+        while(n >= 0 && fast != nullptr) {
             fast = fast->next;
+            n--;
         }
 
-        // Move both pointers together
-        while (fast != nullptr) {
+        while(fast != nullptr) {
             fast = fast->next;
             slow = slow->next;
         }
 
-        // Remove the target node
         slow->next = slow->next->next;
 
         return dummyNode.next;
